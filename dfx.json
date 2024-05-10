@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "januswebicpvue3": {
+      "source": [
+        "src/januswebicpvue3/dist"
+      ],
+      "type": "assets",
+      "workspace": "januswebicpvue3"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
